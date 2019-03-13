@@ -1,35 +1,13 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-<style>
-	h1{
-		text-align: center;
-		text-transform: uppercase;
-	}
-	.contenido{
-		font-size: 20px;
-	}
-	#primero{
-		background-color: #ccc;
-	}
-	#segundo{
-		color:#44a359;
-	}
-	#tercero{
-		text-decoration:line-through;
-	}
-</style>
-</head>
-<body>
-	<h1>Titulo de prueba</h1>
-	<hr>
-	<div class="contenido">
-		<p id="primero">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore nihil illo odit aperiam alias rem voluptatem odio maiores doloribus facere recusandae suscipit animi quod voluptatibus, laudantium obcaecati quisquam minus modi.</p>
-		<p id="segundo">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore nihil illo odit aperiam alias rem voluptatem odio maiores doloribus facere recusandae suscipit animi quod voluptatibus, laudantium obcaecati quisquam minus modi.</p>
-		<p id="tercero">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore nihil illo odit aperiam alias rem voluptatem odio maiores doloribus facere recusandae suscipit animi quod voluptatibus, laudantium obcaecati quisquam minus modi.</p>
-		<p>{{$today}}</p>
-	</div>
-</body>
+<html>
+  <head>
+    <title>Formularios</title>
+    <style>
+      
+    </style>
+  </head>
+  <body id="fondo">
+    <div class="grid-block" style="background-image: url('http://www.dof.gob.mx/imagenes_diarios/2018/11/16/MAT/sesna4a11_Cimg_0.png'); width: 100%; height: 100vh; background-repeat: no-repeat;">
+    </div>
+
+  </body>
 </html>
