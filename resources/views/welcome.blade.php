@@ -79,11 +79,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Generar PDF con DOMPDF
+                    Pruebas con DOMPDF
                 </div>
 
                 <div class="links">
-                    <a href="{{ route('print') }}">Generar PDF</a>
+                    <a href="{{ route('print') }}">Descargar PDF</a>
                 </div>
             </div>
         </div>
